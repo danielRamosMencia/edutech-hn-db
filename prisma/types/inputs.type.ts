@@ -17,3 +17,9 @@ export type MunicipalityInput = {
   code: string;
   department_id: string;
 };
+
+export type DistrictInput = {
+  name: string;
+  code: string;
+  municipality_id: string;
+};

@@ -3,6 +3,7 @@ import { PrismaClient } from "@prisma/client";
 import { countrySeed } from "./seeds/country.seed";
 import { departmentSeed } from "./seeds/department.seed";
 import { municipalitySeed } from "./seeds/municipality.seed";
+import { districtSeed } from "./seeds/district.seed";
 
 const prisma = new PrismaClient();
 
@@ -10,6 +11,7 @@ async function main() {
   await countrySeed(prisma);
   await departmentSeed(prisma);
   await municipalitySeed(prisma);
+  await districtSeed(prisma);
 }
 
 main()

@@ -14,11 +14,11 @@ export const departmentSeed = async (prisma: PrismaClient) => {
 
     const deparments: DepartmentInput[] = [
       { code: "01", name: "Atlántida", country_id: country.id },
-      { code: "02", name: "Choluteca", country_id: country.id },
-      { code: "03", name: "Colón", country_id: country.id },
-      { code: "04", name: "Comayagua", country_id: country.id },
-      { code: "05", name: "Copán", country_id: country.id },
-      { code: "06", name: "Cortés", country_id: country.id },
+      { code: "02", name: "Colón", country_id: country.id },
+      { code: "03", name: "Comayagua", country_id: country.id },
+      { code: "04", name: "Copán", country_id: country.id },
+      { code: "05", name: "Cortés", country_id: country.id },
+      { code: "06", name: "Choluteca", country_id: country.id },
       { code: "07", name: "El Paraíso", country_id: country.id },
       { code: "08", name: "Francisco Morazán", country_id: country.id },
       { code: "09", name: "Gracias a Dios", country_id: country.id },
