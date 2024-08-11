@@ -1,0 +1,1790 @@
+[
+  {
+    "nombre": "La Ceiba",
+    "codigo": "0101",
+    "codigoDepartamento": "01",
+    "departamento": "Atlántida"
+  },
+  {
+    "nombre": "El Porvenir",
+    "codigo": "0102",
+    "codigoDepartamento": "01",
+    "departamento": "Atlántida"
+  },
+  {
+    "nombre": "Esparta",
+    "codigo": "0103",
+    "codigoDepartamento": "01",
+    "departamento": "Atlántida"
+  },
+  {
+    "nombre": "Jutiapa",
+    "codigo": "0104",
+    "codigoDepartamento": "01",
+    "departamento": "Atlántida"
+  },
+  {
+    "nombre": "La Masica",
+    "codigo": "0105",
+    "codigoDepartamento": "01",
+    "departamento": "Atlántida"
+  },
+  {
+    "nombre": "San Francisco",
+    "codigo": "0106",
+    "codigoDepartamento": "01",
+    "departamento": "Atlántida"
+  },
+  {
+    "nombre": "Tela",
+    "codigo": "0107",
+    "codigoDepartamento": "01",
+    "departamento": "Atlántida"
+  },
+  {
+    "nombre": "Arizona",
+    "codigo": "0108",
+    "codigoDepartamento": "01",
+    "departamento": "Atlántida"
+  },
+  {
+    "nombre": "Trujillo",
+    "codigo": "0201",
+    "codigoDepartamento": "02",
+    "departamento": "Colón"
+  },
+  {
+    "nombre": "Balfate",
+    "codigo": "0202",
+    "codigoDepartamento": "02",
+    "departamento": "Colón"
+  },
+  {
+    "nombre": "Iriona",
+    "codigo": "0203",
+    "codigoDepartamento": "02",
+    "departamento": "Colón"
+  },
+  {
+    "nombre": "Limón",
+    "codigo": "0204",
+    "codigoDepartamento": "02",
+    "departamento": "Colón"
+  },
+  {
+    "nombre": "Sabá",
+    "codigo": "0205",
+    "codigoDepartamento": "02",
+    "departamento": "Colón"
+  },
+  {
+    "nombre": "Santa Fe",
+    "codigo": "0206",
+    "codigoDepartamento": "02",
+    "departamento": "Colón"
+  },
+  {
+    "nombre": "Santa Rosa de Aguán",
+    "codigo": "0207",
+    "codigoDepartamento": "02",
+    "departamento": "Colón"
+  },
+  {
+    "nombre": "Sonaguera",
+    "codigo": "0208",
+    "codigoDepartamento": "02",
+    "departamento": "Colón"
+  },
+  {
+    "nombre": "Tocoa",
+    "codigo": "0209",
+    "codigoDepartamento": "02",
+    "departamento": "Colón"
+  },
+  {
+    "nombre": "Bonito Oriental",
+    "codigo": "0210",
+    "codigoDepartamento": "02",
+    "departamento": "Colón"
+  },
+  {
+    "nombre": "Comayagua",
+    "codigo": "0301",
+    "codigoDepartamento": "03",
+    "departamento": "Comayagua"
+  },
+  {
+    "nombre": "Ajuterique",
+    "codigo": "0302",
+    "codigoDepartamento": "03",
+    "departamento": "Comayagua"
+  },
+  {
+    "nombre": "El Rosario",
+    "codigo": "0303",
+    "codigoDepartamento": "03",
+    "departamento": "Comayagua"
+  },
+  {
+    "nombre": "Esquías",
+    "codigo": "0304",
+    "codigoDepartamento": "03",
+    "departamento": "Comayagua"
+  },
+  {
+    "nombre": "Humuya",
+    "codigo": "0305",
+    "codigoDepartamento": "03",
+    "departamento": "Comayagua"
+  },
+  {
+    "nombre": "La Libertad",
+    "codigo": "0306",
+    "codigoDepartamento": "03",
+    "departamento": "Comayagua"
+  },
+  {
+    "nombre": "Lamaní",
+    "codigo": "0307",
+    "codigoDepartamento": "03",
+    "departamento": "Comayagua"
+  },
+  {
+    "nombre": "La Trinidad",
+    "codigo": "0308",
+    "codigoDepartamento": "03",
+    "departamento": "Comayagua"
+  },
+  {
+    "nombre": "Lejamaní",
+    "codigo": "0309",
+    "codigoDepartamento": "03",
+    "departamento": "Comayagua"
+  },
+  {
+    "nombre": "Meámbar",
+    "codigo": "0310",
+    "codigoDepartamento": "03",
+    "departamento": "Comayagua"
+  },
+  {
+    "nombre": "Minas de Oro",
+    "codigo": "0311",
+    "codigoDepartamento": "03",
+    "departamento": "Comayagua"
+  },
+  {
+    "nombre": "Ojos de Agua",
+    "codigo": "0312",
+    "codigoDepartamento": "03",
+    "departamento": "Comayagua"
+  },
+  {
+    "nombre": "San Jerónimo",
+    "codigo": "0313",
+    "codigoDepartamento": "03",
+    "departamento": "Comayagua"
+  },
+  {
+    "nombre": "San José de Comayagua",
+    "codigo": "0314",
+    "codigoDepartamento": "03",
+    "departamento": "Comayagua"
+  },
+  {
+    "nombre": "San José del Potrero",
+    "codigo": "0315",
+    "codigoDepartamento": "03",
+    "departamento": "Comayagua"
+  },
+  {
+    "nombre": "San Luis",
+    "codigo": "0316",
+    "codigoDepartamento": "03",
+    "departamento": "Comayagua"
+  },
+  {
+    "nombre": "Sab Sebastián",
+    "codigo": "0317",
+    "codigoDepartamento": "03",
+    "departamento": "Comayagua"
+  },
+  {
+    "nombre": "Siguatepeque",
+    "codigo": "0318",
+    "codigoDepartamento": "03",
+    "departamento": "Comayagua"
+  },
+  {
+    "nombre": "Villa de San Antonio",
+    "codigo": "0319",
+    "codigoDepartamento": "03",
+    "departamento": "Comayagua"
+  },
+  {
+    "nombre": "Las Lajas",
+    "codigo": "0320",
+    "codigoDepartamento": "03",
+    "departamento": "Comayagua"
+  },
+  {
+    "nombre": "Taulabé",
+    "codigo": "0321",
+    "codigoDepartamento": "03",
+    "departamento": "Comayagua"
+  },
+  {
+    "nombre": "Santa Rosa De Copán",
+    "codigo": "0401",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "Cabañas",
+    "codigo": "0402",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "Concepción",
+    "codigo": "0403",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "Copán Ruinas",
+    "codigo": "0404",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "Corquín",
+    "codigo": "0405",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "Cucuyagua",
+    "codigo": "0406",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "Dolores",
+    "codigo": "0407",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "Dulce Nombre",
+    "codigo": "0408",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "El Paraíso",
+    "codigo": "0409",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "Florida",
+    "codigo": "0410",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "La Jigua",
+    "codigo": "0411",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "La Unión",
+    "codigo": "0412",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "Nueva Arcadia",
+    "codigo": "0413",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "San Agustín",
+    "codigo": "0414",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "San Antonio",
+    "codigo": "0415",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "San Jerónimo",
+    "codigo": "0416",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "San José",
+    "codigo": "0417",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "San Juan de Opoa",
+    "codigo": "0418",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "San Nicolás",
+    "codigo": "0419",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "San Pedro",
+    "codigo": "0420",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "Santa Rita",
+    "codigo": "0421",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "Trinidad de Copán",
+    "codigo": "0422",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "Veracruz",
+    "codigo": "0423",
+    "codigoDepartamento": "04",
+    "departamento": "Copán"
+  },
+  {
+    "nombre": "San Pedro Sula",
+    "codigo": "0501",
+    "codigoDepartamento": "05",
+    "departamento": "Cortés"
+  },
+  {
+    "nombre": "Choloma",
+    "codigo": "0502",
+    "codigoDepartamento": "05",
+    "departamento": "Cortés"
+  },
+  {
+    "nombre": "Omoa",
+    "codigo": "0503",
+    "codigoDepartamento": "05",
+    "departamento": "Cortés"
+  },
+  {
+    "nombre": "Pimienta",
+    "codigo": "0504",
+    "codigoDepartamento": "05",
+    "departamento": "Cortés"
+  },
+  {
+    "nombre": "Potrerillos",
+    "codigo": "0505",
+    "codigoDepartamento": "05",
+    "departamento": "Cortés"
+  },
+  {
+    "nombre": "Puerto Cortés",
+    "codigo": "0506",
+    "codigoDepartamento": "05",
+    "departamento": "Cortés"
+  },
+  {
+    "nombre": "San Antonio de Cortés",
+    "codigo": "0507",
+    "codigoDepartamento": "05",
+    "departamento": "Cortés"
+  },
+  {
+    "nombre": "San Francisco de Yojoa",
+    "codigo": "0508",
+    "codigoDepartamento": "05",
+    "departamento": "Cortés"
+  },
+  {
+    "nombre": "San Manuel",
+    "codigo": "0509",
+    "codigoDepartamento": "05",
+    "departamento": "Cortés"
+  },
+  {
+    "nombre": "Santa Cruz de Yojoa",
+    "codigo": "0510",
+    "codigoDepartamento": "05",
+    "departamento": "Cortés"
+  },
+  {
+    "nombre": "Villanueva",
+    "codigo": "0511",
+    "codigoDepartamento": "05",
+    "departamento": "Cortés"
+  },
+  {
+    "nombre": "La Lima",
+    "codigo": "0512",
+    "codigoDepartamento": "05",
+    "departamento": "Cortés"
+  },
+  {
+    "nombre": "Choluteca",
+    "codigo": "0601",
+    "codigoDepartamento": "06",
+    "departamento": "Choluteca"
+  },
+  {
+    "nombre": "Apacilagua",
+    "codigo": "0602",
+    "codigoDepartamento": "06",
+    "departamento": "Choluteca"
+  },
+  {
+    "nombre": "Concepción de María",
+    "codigo": "0603",
+    "codigoDepartamento": "06",
+    "departamento": "Choluteca"
+  },
+  {
+    "nombre": "Duyure",
+    "codigo": "0604",
+    "codigoDepartamento": "06",
+    "departamento": "Choluteca"
+  },
+  {
+    "nombre": "El Corpus",
+    "codigo": "0605",
+    "codigoDepartamento": "06",
+    "departamento": "Choluteca"
+  },
+  {
+    "nombre": "El Triunfo",
+    "codigo": "0606",
+    "codigoDepartamento": "06",
+    "departamento": "Choluteca"
+  },
+  {
+    "nombre": "Marcovia",
+    "codigo": "0607",
+    "codigoDepartamento": "06",
+    "departamento": "Choluteca"
+  },
+  {
+    "nombre": "Morolica",
+    "codigo": "0608",
+    "codigoDepartamento": "06",
+    "departamento": "Choluteca"
+  },
+  {
+    "nombre": "Namasigüe",
+    "codigo": "0609",
+    "codigoDepartamento": "06",
+    "departamento": "Choluteca"
+  },
+  {
+    "nombre": "Orocuina",
+    "codigo": "0610",
+    "codigoDepartamento": "06",
+    "departamento": "Choluteca"
+  },
+  {
+    "nombre": "Pespire",
+    "codigo": "0611",
+    "codigoDepartamento": "06",
+    "departamento": "Choluteca"
+  },
+  {
+    "nombre": "San Antonio de Flores",
+    "codigo": "0612",
+    "codigoDepartamento": "06",
+    "departamento": "Choluteca"
+  },
+  {
+    "nombre": "San Isidro",
+    "codigo": "0613",
+    "codigoDepartamento": "06",
+    "departamento": "Choluteca"
+  },
+  {
+    "nombre": "San José",
+    "codigo": "0614",
+    "codigoDepartamento": "06",
+    "departamento": "Choluteca"
+  },
+  {
+    "nombre": "San Marcos de Colón",
+    "codigo": "0615",
+    "codigoDepartamento": "06",
+    "departamento": "Choluteca"
+  },
+  {
+    "nombre": "Santa Ana de Yusguare",
+    "codigo": "0616",
+    "codigoDepartamento": "06",
+    "departamento": "Choluteca"
+  },
+  {
+    "nombre": "Yuscarán",
+    "codigo": "0701",
+    "codigoDepartamento": "07",
+    "departamento": "El Paraíso"
+  },
+  {
+    "nombre": "Alauca",
+    "codigo": "0702",
+    "codigoDepartamento": "07",
+    "departamento": "El Paraíso"
+  },
+  {
+    "nombre": "Danlí",
+    "codigo": "0703",
+    "codigoDepartamento": "07",
+    "departamento": "El Paraíso"
+  },
+  {
+    "nombre": "El Paraíso",
+    "codigo": "0704",
+    "codigoDepartamento": "07",
+    "departamento": "El Paraíso"
+  },
+  {
+    "nombre": "Güinope",
+    "codigo": "0705",
+    "codigoDepartamento": "07",
+    "departamento": "El Paraíso"
+  },
+  {
+    "nombre": "Jacaleapa",
+    "codigo": "0706",
+    "codigoDepartamento": "07",
+    "departamento": "El Paraíso"
+  },
+  {
+    "nombre": "Liure",
+    "codigo": "0707",
+    "codigoDepartamento": "07",
+    "departamento": "El Paraíso"
+  },
+  {
+    "nombre": "Morocelí",
+    "codigo": "0708",
+    "codigoDepartamento": "07",
+    "departamento": "El Paraíso"
+  },
+  {
+    "nombre": "Oropolí",
+    "codigo": "0709",
+    "codigoDepartamento": "07",
+    "departamento": "El Paraíso"
+  },
+  {
+    "nombre": "Potrerillos",
+    "codigo": "0710",
+    "codigoDepartamento": "07",
+    "departamento": "El Paraíso"
+  },
+  {
+    "nombre": "San Antonio de Flores",
+    "codigo": "0711",
+    "codigoDepartamento": "07",
+    "departamento": "El Paraíso"
+  },
+  {
+    "nombre": "San Lucas",
+    "codigo": "0712",
+    "codigoDepartamento": "07",
+    "departamento": "El Paraíso"
+  },
+  {
+    "nombre": "San Matías",
+    "codigo": "0713",
+    "codigoDepartamento": "07",
+    "departamento": "El Paraíso"
+  },
+  {
+    "nombre": "Soledad",
+    "codigo": "0714",
+    "codigoDepartamento": "07",
+    "departamento": "El Paraíso"
+  },
+  {
+    "nombre": "Teupasenti",
+    "codigo": "0715",
+    "codigoDepartamento": "07",
+    "departamento": "El Paraíso"
+  },
+  {
+    "nombre": "Texiguat",
+    "codigo": "0716",
+    "codigoDepartamento": "07",
+    "departamento": "El Paraíso"
+  },
+  {
+    "nombre": "Vado Ancho",
+    "codigo": "0717",
+    "codigoDepartamento": "07",
+    "departamento": "El Paraíso"
+  },
+  {
+    "nombre": "Yauyupe",
+    "codigo": "0718",
+    "codigoDepartamento": "07",
+    "departamento": "El Paraíso"
+  },
+  {
+    "nombre": "Trojes",
+    "codigo": "0719",
+    "codigoDepartamento": "07",
+    "departamento": "El Paraíso"
+  },
+  {
+    "nombre": "Distrito Central",
+    "codigo": "0801",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "Alubarén",
+    "codigo": "0802",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "Cedros",
+    "codigo": "0803",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "Curarén",
+    "codigo": "0804",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "El Porvenir",
+    "codigo": "0805",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "Guaimaca",
+    "codigo": "0806",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "La Libertad",
+    "codigo": "0807",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "La Venta",
+    "codigo": "0808",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "Lepaterique",
+    "codigo": "0809",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "Maraita",
+    "codigo": "0810",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "Marale",
+    "codigo": "0811",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "Nueva Armenia",
+    "codigo": "0812",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "Ojojona",
+    "codigo": "0813",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "Orica",
+    "codigo": "0814",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "Reitoca",
+    "codigo": "0815",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "Sabanagrande",
+    "codigo": "0816",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "San Antonio de Oriente",
+    "codigo": "0817",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "San Buenaventura",
+    "codigo": "0818",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "San Ignacio",
+    "codigo": "0819",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "San Juan de Flores",
+    "codigo": "0820",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "San Miguelito",
+    "codigo": "0821",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "Santa Ana",
+    "codigo": "0822",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "Santa Lucía",
+    "codigo": "0823",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "Talanga",
+    "codigo": "0824",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "Tatumbla",
+    "codigo": "0825",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "Valle de Ángeles",
+    "codigo": "0826",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "Villa de San Francisco",
+    "codigo": "0827",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "Vallecillo",
+    "codigo": "0828",
+    "codigoDepartamento": "08",
+    "departamento": "Francisco Morazán"
+  },
+  {
+    "nombre": "Puerto Lempira",
+    "codigo": "0901",
+    "codigoDepartamento": "09",
+    "departamento": "Gracias A Dios"
+  },
+  {
+    "nombre": "Brus Laguna",
+    "codigo": "0902",
+    "codigoDepartamento": "09",
+    "departamento": "Gracias A Dios"
+  },
+  {
+    "nombre": "Ahuas",
+    "codigo": "0903",
+    "codigoDepartamento": "09",
+    "departamento": "Gracias A Dios"
+  },
+  {
+    "nombre": "Juan Francisco Bulnes",
+    "codigo": "0904",
+    "codigoDepartamento": "09",
+    "departamento": "Gracias A Dios"
+  },
+  {
+    "nombre": "Ramón Villeda Morales",
+    "codigo": "0905",
+    "codigoDepartamento": "09",
+    "departamento": "Gracias A Dios"
+  },
+  {
+    "nombre": "Wampusirpe",
+    "codigo": "0906",
+    "codigoDepartamento": "09",
+    "departamento": "Gracias A Dios"
+  },
+  {
+    "nombre": "La Esperanza",
+    "codigo": "1001",
+    "codigoDepartamento": "10",
+    "departamento": "Intibucá"
+  },
+  {
+    "nombre": "Camasca",
+    "codigo": "1002",
+    "codigoDepartamento": "10",
+    "departamento": "Intibucá"
+  },
+  {
+    "nombre": "Colomoncagua",
+    "codigo": "1003",
+    "codigoDepartamento": "10",
+    "departamento": "Intibucá"
+  },
+  {
+    "nombre": "Concepción",
+    "codigo": "1004",
+    "codigoDepartamento": "10",
+    "departamento": "Intibucá"
+  },
+  {
+    "nombre": "Dolores",
+    "codigo": "1005",
+    "codigoDepartamento": "10",
+    "departamento": "Intibucá"
+  },
+  {
+    "nombre": "Intibucá",
+    "codigo": "1006",
+    "codigoDepartamento": "10",
+    "departamento": "Intibucá"
+  },
+  {
+    "nombre": "Jesús de Otoro",
+    "codigo": "1007",
+    "codigoDepartamento": "10",
+    "departamento": "Intibucá"
+  },
+  {
+    "nombre": "Magdalena",
+    "codigo": "1008",
+    "codigoDepartamento": "10",
+    "departamento": "Intibucá"
+  },
+  {
+    "nombre": "Masaguara",
+    "codigo": "1009",
+    "codigoDepartamento": "10",
+    "departamento": "Intibucá"
+  },
+  {
+    "nombre": "San Antonio",
+    "codigo": "1010",
+    "codigoDepartamento": "10",
+    "departamento": "Intibucá"
+  },
+  {
+    "nombre": "San Isidro",
+    "codigo": "1011",
+    "codigoDepartamento": "10",
+    "departamento": "Intibucá"
+  },
+  {
+    "nombre": "San Juan",
+    "codigo": "1012",
+    "codigoDepartamento": "10",
+    "departamento": "Intibucá"
+  },
+  {
+    "nombre": "San Marcos de la Sierra",
+    "codigo": "1013",
+    "codigoDepartamento": "10",
+    "departamento": "Intibucá"
+  },
+  {
+    "nombre": "San Miguel Guancapla",
+    "codigo": "1014",
+    "codigoDepartamento": "10",
+    "departamento": "Intibucá"
+  },
+  {
+    "nombre": "Santa Lucía",
+    "codigo": "1015",
+    "codigoDepartamento": "10",
+    "departamento": "Intibucá"
+  },
+  {
+    "nombre": "Yamaranguila",
+    "codigo": "1016",
+    "codigoDepartamento": "10",
+    "departamento": "Intibucá"
+  },
+  {
+    "nombre": "San Francisco de Opalaca",
+    "codigo": "1017",
+    "codigoDepartamento": "10",
+    "departamento": "Intibucá"
+  },
+  {
+    "nombre": "Roatán",
+    "codigo": "1101",
+    "codigoDepartamento": "11",
+    "departamento": "Islas de la Bahía"
+  },
+  {
+    "nombre": "Guanaja",
+    "codigo": "1102",
+    "codigoDepartamento": "11",
+    "departamento": "Islas de la Bahía"
+  },
+  {
+    "nombre": "José Santos Guardiola",
+    "codigo": "1103",
+    "codigoDepartamento": "11",
+    "departamento": "Islas de la Bahía"
+  },
+  {
+    "nombre": "Utila",
+    "codigo": "1104",
+    "codigoDepartamento": "11",
+    "departamento": "Islas de la Bahía"
+  },
+  {
+    "nombre": "La Paz",
+    "codigo": "1201",
+    "codigoDepartamento": "12",
+    "departamento": "La Paz"
+  },
+  {
+    "nombre": "Aguanqueterique",
+    "codigo": "1202",
+    "codigoDepartamento": "12",
+    "departamento": "La Paz"
+  },
+  {
+    "nombre": "Cabañas",
+    "codigo": "1203",
+    "codigoDepartamento": "12",
+    "departamento": "La Paz"
+  },
+  {
+    "nombre": "Cane",
+    "codigo": "1204",
+    "codigoDepartamento": "12",
+    "departamento": "La Paz"
+  },
+  {
+    "nombre": "Chinacla",
+    "codigo": "1205",
+    "codigoDepartamento": "12",
+    "departamento": "La Paz"
+  },
+  {
+    "nombre": "Guajiquiro",
+    "codigo": "1206",
+    "codigoDepartamento": "12",
+    "departamento": "La Paz"
+  },
+  {
+    "nombre": "Lauterique",
+    "codigo": "1207",
+    "codigoDepartamento": "12",
+    "departamento": "La Paz"
+  },
+  {
+    "nombre": "Marcala",
+    "codigo": "1208",
+    "codigoDepartamento": "12",
+    "departamento": "La Paz"
+  },
+  {
+    "nombre": "Mercedes de Oriente",
+    "codigo": "1209",
+    "codigoDepartamento": "12",
+    "departamento": "La Paz"
+  },
+  {
+    "nombre": "Opatoro",
+    "codigo": "1210",
+    "codigoDepartamento": "12",
+    "departamento": "La Paz"
+  },
+  {
+    "nombre": "San Antonio del Norte",
+    "codigo": "1211",
+    "codigoDepartamento": "12",
+    "departamento": "La Paz"
+  },
+  {
+    "nombre": "San José",
+    "codigo": "1212",
+    "codigoDepartamento": "12",
+    "departamento": "La Paz"
+  },
+  {
+    "nombre": "San Juan",
+    "codigo": "1213",
+    "codigoDepartamento": "12",
+    "departamento": "La Paz"
+  },
+  {
+    "nombre": "San Pedro de Tutule",
+    "codigo": "1214",
+    "codigoDepartamento": "12",
+    "departamento": "La Paz"
+  },
+  {
+    "nombre": "Santa Ana",
+    "codigo": "1215",
+    "codigoDepartamento": "12",
+    "departamento": "La Paz"
+  },
+  {
+    "nombre": "Santa Elena",
+    "codigo": "1216",
+    "codigoDepartamento": "12",
+    "departamento": "La Paz"
+  },
+  {
+    "nombre": "Santa María",
+    "codigo": "1217",
+    "codigoDepartamento": "12",
+    "departamento": "La Paz"
+  },
+  {
+    "nombre": "Santiago de Puringla",
+    "codigo": "1218",
+    "codigoDepartamento": "12",
+    "departamento": "La Paz"
+  },
+  {
+    "nombre": "Yarula",
+    "codigo": "1219",
+    "codigoDepartamento": "12",
+    "departamento": "La Paz"
+  },
+  {
+    "nombre": "Gracias",
+    "codigo": "1301",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "Belén",
+    "codigo": "1302",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "Candelaria",
+    "codigo": "1303",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "Cololaca",
+    "codigo": "1304",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "Erandique",
+    "codigo": "1305",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "Gualcince",
+    "codigo": "1306",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "Guarita",
+    "codigo": "1307",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "La Campa",
+    "codigo": "1308",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "La Iguala",
+    "codigo": "1309",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "Las Flores",
+    "codigo": "1310",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "La Unión",
+    "codigo": "1311",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "La Virtud",
+    "codigo": "1312",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "Lepaera",
+    "codigo": "1313",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "Mapulaca",
+    "codigo": "1314",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "Piraera",
+    "codigo": "1315",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "San Andrés",
+    "codigo": "1316",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "San Francisco",
+    "codigo": "1317",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "San Juan Guarita",
+    "codigo": "1318",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "San Manuel Colohete",
+    "codigo": "1319",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "San Rafael",
+    "codigo": "1320",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "San Sebastián",
+    "codigo": "1321",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "Santa Cruz",
+    "codigo": "1322",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "Talgua",
+    "codigo": "1323",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "Tambla",
+    "codigo": "1324",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "Tomalá",
+    "codigo": "1325",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "Valladolid",
+    "codigo": "1326",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "Virginia",
+    "codigo": "1327",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "San Marcos de Caiquín",
+    "codigo": "1328",
+    "codigoDepartamento": "13",
+    "departamento": "Lempira"
+  },
+  {
+    "nombre": "Nueva Ocotepeque",
+    "codigo": "1401",
+    "codigoDepartamento": "14",
+    "departamento": "Ocotepeque"
+  },
+  {
+    "nombre": "Belén Gualcho",
+    "codigo": "1402",
+    "codigoDepartamento": "14",
+    "departamento": "Ocotepeque"
+  },
+  {
+    "nombre": "Concepción",
+    "codigo": "1403",
+    "codigoDepartamento": "14",
+    "departamento": "Ocotepeque"
+  },
+  {
+    "nombre": "Dolores Merendón",
+    "codigo": "1404",
+    "codigoDepartamento": "14",
+    "departamento": "Ocotepeque"
+  },
+  {
+    "nombre": "Fraternidad",
+    "codigo": "1405",
+    "codigoDepartamento": "14",
+    "departamento": "Ocotepeque"
+  },
+  {
+    "nombre": "La Encarnación",
+    "codigo": "1406",
+    "codigoDepartamento": "14",
+    "departamento": "Ocotepeque"
+  },
+  {
+    "nombre": "La Labor",
+    "codigo": "1407",
+    "codigoDepartamento": "14",
+    "departamento": "Ocotepeque"
+  },
+  {
+    "nombre": "Lucerna",
+    "codigo": "1408",
+    "codigoDepartamento": "14",
+    "departamento": "Ocotepeque"
+  },
+  {
+    "nombre": "Mercedes",
+    "codigo": "1409",
+    "codigoDepartamento": "14",
+    "departamento": "Ocotepeque"
+  },
+  {
+    "nombre": "San Fernando",
+    "codigo": "1410",
+    "codigoDepartamento": "14",
+    "departamento": "Ocotepeque"
+  },
+  {
+    "nombre": "San Francisco del Valle",
+    "codigo": "1411",
+    "codigoDepartamento": "14",
+    "departamento": "Ocotepeque"
+  },
+  {
+    "nombre": "San Jorge",
+    "codigo": "1412",
+    "codigoDepartamento": "14",
+    "departamento": "Ocotepeque"
+  },
+  {
+    "nombre": "San Marcos",
+    "codigo": "1413",
+    "codigoDepartamento": "14",
+    "departamento": "Ocotepeque"
+  },
+  {
+    "nombre": "Santa Fe",
+    "codigo": "1414",
+    "codigoDepartamento": "14",
+    "departamento": "Ocotepeque"
+  },
+  {
+    "nombre": "Sensenti",
+    "codigo": "1415",
+    "codigoDepartamento": "14",
+    "departamento": "Ocotepeque"
+  },
+  {
+    "nombre": "Sinuapa",
+    "codigo": "1416",
+    "codigoDepartamento": "14",
+    "departamento": "Ocotepeque"
+  },
+  {
+    "nombre": "Juticalpa",
+    "codigo": "1501",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "Campamento",
+    "codigo": "1502",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "Catacamas",
+    "codigo": "1503",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "Concordia",
+    "codigo": "1504",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "Dulce Nombre de Culmí",
+    "codigo": "1505",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "El Rosario",
+    "codigo": "1506",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "Esquipulas del Norte",
+    "codigo": "1507",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "Gualaco",
+    "codigo": "1508",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "Guarizama",
+    "codigo": "1509",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "Guata",
+    "codigo": "1510",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "Guayape",
+    "codigo": "1511",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "Jano",
+    "codigo": "1512",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "La Unión",
+    "codigo": "1513",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "Manguilile",
+    "codigo": "1514",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "Manto",
+    "codigo": "1515",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "Salamá",
+    "codigo": "1516",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "San Esteban",
+    "codigo": "1517",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "San Francisco de Becerra",
+    "codigo": "1518",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "San Francisco de la Paz",
+    "codigo": "1519",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "Santa María del Real",
+    "codigo": "1520",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "Silca",
+    "codigo": "1521",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "Yocón",
+    "codigo": "1522",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "Patuca",
+    "codigo": "1523",
+    "codigoDepartamento": "15",
+    "departamento": "Olancho"
+  },
+  {
+    "nombre": "Santa Bárbara",
+    "codigo": "1601",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "Arada",
+    "codigo": "1602",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "Atima",
+    "codigo": "1603",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "Azacualpa",
+    "codigo": "1604",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "Ceguaca",
+    "codigo": "1605",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "San José de las Colinas",
+    "codigo": "1606",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "Concepción del Norte",
+    "codigo": "1607",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "Concepción del Sur",
+    "codigo": "1608",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "Chinda",
+    "codigo": "1609",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "El Níspero",
+    "codigo": "1610",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "Gualala",
+    "codigo": "1611",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "Ilama",
+    "codigo": "1612",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "Macuelizo",
+    "codigo": "1613",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "Naranjito",
+    "codigo": "1614",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "Nuevo Celilac",
+    "codigo": "1615",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "Petoa",
+    "codigo": "1616",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "Protección",
+    "codigo": "1617",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "Quimistán",
+    "codigo": "1618",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "San Francisco de Ojuera",
+    "codigo": "1619",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "San Luis",
+    "codigo": "1620",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "San Marcos",
+    "codigo": "1621",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "San Nicolás",
+    "codigo": "1622",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "San Pedro Zacapa",
+    "codigo": "1623",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "Santa Rita",
+    "codigo": "1624",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "San Vicente Centenario",
+    "codigo": "1625",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "Trinidad",
+    "codigo": "1626",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "Las Vegas",
+    "codigo": "1627",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "Nueva Frontera",
+    "codigo": "1628",
+    "codigoDepartamento": "16",
+    "departamento": "Santa Bárbara"
+  },
+  {
+    "nombre": "Alianza",
+    "codigo": "1701",
+    "codigoDepartamento": "17",
+    "departamento": "Valle"
+  },
+  {
+    "nombre": "Amapala",
+    "codigo": "1702",
+    "codigoDepartamento": "17",
+    "departamento": "Valle"
+  },
+  {
+    "nombre": "Aramecina",
+    "codigo": "1703",
+    "codigoDepartamento": "17",
+    "departamento": "Valle"
+  },
+  {
+    "nombre": "Caridad",
+    "codigo": "1704",
+    "codigoDepartamento": "17",
+    "departamento": "Valle"
+  },
+  {
+    "nombre": "Goascorán",
+    "codigo": "1705",
+    "codigoDepartamento": "17",
+    "departamento": "Valle"
+  },
+  {
+    "nombre": "Langue",
+    "codigo": "1706",
+    "codigoDepartamento": "17",
+    "departamento": "Valle"
+  },
+  {
+    "nombre": "Nacaome",
+    "codigo": "1707",
+    "codigoDepartamento": "17",
+    "departamento": "Valle"
+  },
+  {
+    "nombre": "San Francisco de Coray",
+    "codigo": "1708",
+    "codigoDepartamento": "17",
+    "departamento": "Valle"
+  },
+  {
+    "nombre": "San Lorenzo",
+    "codigo": "1709",
+    "codigoDepartamento": "17",
+    "departamento": "Valle"
+  },
+  {
+    "nombre": "Yoro",
+    "codigo": "1801",
+    "codigoDepartamento": "18",
+    "departamento": "Yoro"
+  },
+  {
+    "nombre": "Arenal",
+    "codigo": "1802",
+    "codigoDepartamento": "18",
+    "departamento": "Yoro"
+  },
+  {
+    "nombre": "El Negrito",
+    "codigo": "1803",
+    "codigoDepartamento": "18",
+    "departamento": "Yoro"
+  },
+  {
+    "nombre": "El Progreso",
+    "codigo": "1804",
+    "codigoDepartamento": "18",
+    "departamento": "Yoro"
+  },
+  {
+    "nombre": "Jocón",
+    "codigo": "1805",
+    "codigoDepartamento": "18",
+    "departamento": "Yoro"
+  },
+  {
+    "nombre": "Morazán",
+    "codigo": "1806",
+    "codigoDepartamento": "18",
+    "departamento": "Yoro"
+  },
+  {
+    "nombre": "Olanchito",
+    "codigo": "1807",
+    "codigoDepartamento": "18",
+    "departamento": "Yoro"
+  },
+  {
+    "nombre": "Santa Rita",
+    "codigo": "1808",
+    "codigoDepartamento": "18",
+    "departamento": "Yoro"
+  },
+  {
+    "nombre": "Sulaco",
+    "codigo": "1809",
+    "codigoDepartamento": "18",
+    "departamento": "Yoro"
+  },
+  {
+    "nombre": "Victoria",
+    "codigo": "1810",
+    "codigoDepartamento": "18",
+    "departamento": "Yoro"
+  },
+  {
+    "nombre": "Yorito",
+    "codigo": "1811",
+    "codigoDepartamento": "18",
+    "departamento": "Yoro"
+  }
+]
