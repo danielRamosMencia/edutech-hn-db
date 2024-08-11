@@ -25,7 +25,7 @@ export const municipalitySeed = async (prisma: PrismaClient) => {
       municipalities.push({
         code: municipality.codigo,
         name: municipality.nombre,
-        deparment_id: deparment.id,
+        department_id: deparment.id,
       });
     }
 

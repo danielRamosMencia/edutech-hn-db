@@ -15,5 +15,5 @@ export type DepartmentInput = {
 export type MunicipalityInput = {
   name: string;
   code: string;
-  deparment_id: string;
+  department_id: string;
 };

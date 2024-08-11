@@ -15,7 +15,7 @@ model Country {
   created_at DateTime @default(now())
   updated_at DateTime @default(now())
 
-  deparments Department[]
+  departments Department[]
 }
 
 model Department {
@@ -38,8 +38,8 @@ model Municipality {
   created_at DateTime @default(now())
   updated_at DateTime @default(now())
 
-  deparment_id String
-  deparment    Department @relation(fields: [deparment_id], references: [id], onDelete: Cascade, onUpdate: Cascade)
+  department_id String
+  department    Department @relation(fields: [department_id], references: [id], onDelete: Cascade, onUpdate: Cascade)
 
   districts District[]
   persons   Person[]
