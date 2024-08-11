@@ -13,7 +13,7 @@ export const municipalitySeed = async (prisma: PrismaClient) => {
     const municipalities: MunicipalityInput[] = [];
 
     for (const municipality of data) {
-      let deparment = await prisma.department.findUniqueOrThrow({
+      let department = await prisma.department.findUniqueOrThrow({
         select: {
           id: true,
         },
@@ -25,7 +25,7 @@ export const municipalitySeed = async (prisma: PrismaClient) => {
       municipalities.push({
         code: municipality.codigo,
         name: municipality.nombre,
-        department_id: deparment.id,
+        department_id: department.id,
       });
     }
 

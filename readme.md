@@ -6,19 +6,19 @@ Instalar dependencias:
 npm install
 ```
 
-Ejecutar migraciones
+Ejecutar migraciones:
 
 ```sh
 npx prisma migrate dev
 ```
 
-Recomendaciones
+Recomendaciones:
 
 - Tener instalado NodeJS y TypeScript en tu computador.
 - Tener instalado PostgreSQL en tu computador.
 - Crear la base de datos antes de ejecutar migraciones o seeders.
 
-Referencias útiles
+Referencias útiles:
 
 - [Prisma](https://www.prisma.io/docs)
 - [PostgreSQL](https://www.postgresql.org/docs/)
