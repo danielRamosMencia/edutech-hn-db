@@ -6,3 +6,15 @@ export type MunicipalityJson = {
   codigoDepartamento: string;
   nombreDepartamento: string;
 };
+
+export interface PersonJson {
+  nombre: string;
+  segundoNombre: string;
+  apellido: string;
+  segundoApellido: string;
+  genero: string;
+  municipio: string;
+  direccion: string;
+  email: string;
+  fechaNacimiento: string;
+}

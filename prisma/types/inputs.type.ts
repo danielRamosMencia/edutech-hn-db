@@ -23,3 +23,23 @@ export type DistrictInput = {
   code: string;
   municipality_id: string;
 };
+
+export type GenderInput = {
+  name: string;
+  code: string;
+};
+
+export type PersonInput = {
+  name: string;
+  middle_name?: string;
+  last_name: string;
+  middle_last_name?: string;
+  document_id: string;
+  email: string;
+  cellphone: string;
+  address?: string;
+  rtn?: string;
+  birthdate?: string;
+  municipality_id: string;
+  gender_id: string;
+};
