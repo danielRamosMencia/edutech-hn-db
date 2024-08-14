@@ -43,3 +43,18 @@ export type PersonInput = {
   municipality_id: string;
   gender_id: string;
 };
+
+export type GradeInput = {
+  name: string;
+  code: string;
+};
+
+export type SignatureInput = {
+  name: string;
+  code: string;
+};
+
+export type LevelInput = {
+  name: string;
+  code: string;
+};

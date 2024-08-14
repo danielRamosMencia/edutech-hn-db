@@ -14,9 +14,11 @@ export const personSeed = async (prisma: PrismaClient) => {
 
     for (const person of data) {
       let cellphone = generateCellphone();
+
       let prefix = person.municipio;
       let birthyear = person.fechaNacimiento.split("/")[0];
       let identifiers = generateIdentifiers(prefix, birthyear);
+
       let email = `${person.email}@gmail.com`;
 
       let municipality = await prisma.municipality.findUniqueOrThrow({
@@ -67,6 +69,7 @@ const generateCellphone = (): string => {
   const firstDigits = Math.floor(Math.random() * 9000) + 1000;
   const secondDigits = Math.floor(Math.random() * 9000) + 1000;
   const phoneNumber = `${firstDigits}-${secondDigits}`;
+
   return phoneNumber;
 };
 
