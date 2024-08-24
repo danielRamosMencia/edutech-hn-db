@@ -16,7 +16,6 @@ export const gradeSeed = async (prisma: PrismaClient) => {
       { name: "Décimo grado", code: "10" },
       { name: "Onceavo grado", code: "11" },
       { name: "Doceavo grado", code: "12" },
-      { name: "Treceavo grado", code: "13" },
     ];
 
     await prisma.grade.createMany({

@@ -58,3 +58,13 @@ export type LevelInput = {
   name: string;
   code: string;
 };
+
+export type LevelGradeInput = {
+  level_id: string;
+  grade_id: string;
+};
+
+export type LevelSignatureInput = {
+  level_id: string;
+  signature_id: string;
+};
