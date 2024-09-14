@@ -11,6 +11,8 @@ import { gradeSeed } from "./seeds/grade.seed";
 import { signatureSeed } from "./seeds/signature.seed";
 import { levelGradeSeed } from "./seeds/levelGrade.seed";
 import { levelSignatureSeed } from "./seeds/levelSignature.seed";
+import { institutionSeed } from "./seeds/institution.seed";
+import { institutionLevelSeed } from "./seeds/institutionLevel.seed";
 
 const prisma = new PrismaClient();
 
@@ -26,6 +28,8 @@ async function main() {
   await signatureSeed(prisma);
   await levelGradeSeed(prisma);
   await levelSignatureSeed(prisma);
+  await institutionSeed(prisma);
+  await institutionLevelSeed(prisma);
 }
 
 main()

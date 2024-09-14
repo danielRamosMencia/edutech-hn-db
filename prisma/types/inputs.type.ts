@@ -68,3 +68,17 @@ export type LevelSignatureInput = {
   level_id: string;
   signature_id: string;
 };
+
+export type InstitutionInput = {
+  name: string;
+  code: string;
+  rtn?: string;
+  phone: string;
+  address: string;
+  district_id: string;
+};
+
+export type InstitutionLevelInput = {
+  institution_id: string;
+  level_id: string;
+};

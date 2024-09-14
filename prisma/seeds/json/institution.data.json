@@ -1,0 +1,65 @@
+[
+  {
+    "nombre": "Henry Merriam Weddle",
+    "codigo": "ins-hmw-000",
+    "telefono": "2210-0000",
+    "direccion": "Colonia Abc",
+    "distrito": "0001"
+  },
+  {
+    "nombre": "Ramon Amaya Amador",
+    "codigo": "ins-raa-001",
+    "telefono": "2220-1000",
+    "direccion": "Colonia def",
+    "distrito": "0001"
+  },
+  {
+    "nombre": "Liceo Miguel Patt",
+    "codigo": "ins-lmp-002",
+    "telefono": "2230-2000",
+    "direccion": "Colonia hij",
+    "distrito": "0002"
+  },
+  {
+    "nombre": "San Francisco",
+    "codigo": "ins-sf-003",
+    "telefono": "2240-3000",
+    "direccion": "Colonia klm",
+    "distrito": "0004"
+  },
+  {
+    "nombre": "Abelardo Ramon Fortín",
+    "codigo": "ins-arf-004",
+    "telefono": "2250-4000",
+    "direccion": "Colonia nop",
+    "distrito": "0004"
+  },
+  {
+    "nombre": "José Cecilio del Valle",
+    "codigo": "ins-jsv-005",
+    "telefono": "2260-5000",
+    "direccion": "Colonia qrs",
+    "distrito": "0006"
+  },
+  {
+    "nombre": "Brigadas de Choluteca",
+    "codigo": "ins-bg-006",
+    "telefono": "2270-6000",
+    "direccion": "Colonia tuv",
+    "distrito": "0007"
+  },
+  {
+    "nombre": "Valle de Bendición",
+    "codigo": "ins-vb-007",
+    "telefono": "2280-7000",
+    "direccion": "Colonia wxy",
+    "distrito": "0007"
+  },
+  {
+    "nombre": "José Trinidad Cabañas",
+    "codigo": "ins-jtc-008",
+    "telefono": "2290-8000",
+    "direccion": "Colonia zod",
+    "distrito": "0009"
+  }
+]

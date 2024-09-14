@@ -17,4 +17,12 @@ export interface PersonJson {
   direccion: string;
   email: string;
   fechaNacimiento: string;
+};
+
+export type InstitutionJson = {
+  nombre: string;
+  codigo: string;
+  telefono: string;
+  direccion: string;
+  distrito: string;
 }
