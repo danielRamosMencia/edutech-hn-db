@@ -96,7 +96,7 @@ export const districtSeed = async (prisma: PrismaClient) => {
       data: districs,
     });
 
-    console.log("Distric seed completed.");
+    console.log("District seed completed.");
   } catch (error) {
     console.error("Error in district seed: ", error);
   }

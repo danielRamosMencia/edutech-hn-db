@@ -7,7 +7,7 @@ export type MunicipalityJson = {
   nombreDepartamento: string;
 };
 
-export interface PersonJson {
+export type PersonJson = {
   nombre: string;
   segundoNombre: string;
   apellido: string;
@@ -25,4 +25,4 @@ export type InstitutionJson = {
   telefono: string;
   direccion: string;
   distrito: string;
-}
+};
